@@ -37,7 +37,7 @@
     ]
   },
   "devDependencies": {
-    "terser": "^3.14.1"
+    "terser": "^4.8.1"
   },
   "proxy": "http://localhost:5000"
 }
